@@ -51,33 +51,4 @@ for(let i=0;i<btn.length;i++){
        
     })
   });
-
-
-
-
-
-
 };
-
-
-
-
-
-// btns.forEach(btn => {
-// btn.addEventListener("click",()=>{
-
-//     // if (indexValue==Motivation.length-1){
-//     //     indexValue++;
-//     // }
-//     // else{
-//     //     indexValue+=1;
-//     // }
-//     Motivation_image.src=Motivation[indexValue].Image;
-// Motivation_name.textContent=Motivation[indexValue].name;
-// Motivation_details.textContent=Motivation[indexValue].details;
-
-//   });
-
-
-// });
-// ;
